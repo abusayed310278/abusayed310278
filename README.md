@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **laravel, React, Vue , Node Js**
+- 💬 Ask me about **laravel, React, Vue , Node Js,Ajax,HTML,CSS,Bootstrap,Flutter**
 
 - 📫 How to reach me **abusayed144004@gmail.com**
 
