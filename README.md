@@ -8,6 +8,7 @@
 - 📫 How to reach me **abusayed144004@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket.**
+- currently working at https://bdcalling.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
