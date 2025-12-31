@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- - 🌱 I’m currently working as Full stack Developer **Flutter Developer and Node.js/Laravel** 
+- -  I’m currently working as Full stack Developer **Flutter Developer and Node.js/Laravel** 
 
 - 💬 Ask me about **laravel, React, Vue , Node Js,Ajax,HTML,CSS,Bootstrap,Flutter**
 
