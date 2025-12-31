@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- -  I’m currently working as Full stack Developer **Flutter Developer and Node.js/Laravel** 
+- I’m currently working as Full stack Developer **Flutter Developer and Node.js/Laravel** 
 
 - 💬 Ask me about **laravel, React, Vue , Node Js,Ajax,HTML,CSS,Bootstrap,Flutter**
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love to play cricket.**
 - **currently working at https://bdcalling.com/**
-- **I've another 2 github where i am as a contributor purpose:**
+- **I've another 3 github where i am as a contributor purpose:**
   
    github 1: https://github.com/abubdcalling
   
