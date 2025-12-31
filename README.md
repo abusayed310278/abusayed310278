@@ -1,17 +1,21 @@
 <h1 align="center">Hi 👋, I'm Abu Sayed</h1>
 <h3 align="center">A passionate frontend and backend developer.</h3>
 
-- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **laravel, React, Vue , Node Js,Ajax,HTML,CSS,Bootstrap,Flutter**
 
 - 📫 How to reach me **abusayed144004@gmail.com**
 
 - ⚡ Fun fact **I love to play cricket.**
-- currently working at https://bdcalling.com/
-- I've another 2 github for working purpose:
+- **currently working at https://bdcalling.com/**
+- **I've another 2 github where i am as a contributor purpose:**
+  
    github 1: https://github.com/abubdcalling
+  
    gihub  2: https://github.com/fsdteam8
+
+   github 3: https://github.com/FSDTeam-SAA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
